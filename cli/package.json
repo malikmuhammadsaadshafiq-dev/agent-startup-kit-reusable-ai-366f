@@ -1,0 +1,9 @@
+{
+  "name": "agent-kit",
+  "version": "1.0.0",
+  "description": "Install reusable AI coding workflows from Agent Startup Kit",
+  "bin": { "agent-kit": "./index.js" },
+  "main": "index.js",
+  "license": "MIT",
+  "keywords": ["ai", "workflows", "claude", "agent", "coding", "fastapi", "nextjs"]
+}
